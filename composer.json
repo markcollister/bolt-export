@@ -1,5 +1,5 @@
 {
-    "name": "thirdwave/bolt-export",
+    "name": "markcollister/bolt-export",
     "description": "General export function for Bolt CMS",
     "type": "bolt-extension",
     "keywords": [

@@ -103,7 +103,7 @@ class Extension extends BaseExtension
     {
         $this->app['htmlsnippets'] = true;
 
-        $basePath = $this->app['paths']['root'] . 'extensions/vendor/thirdwave/bolt-export/assets';
+        $basePath = $this->app['paths']['root'] . 'extensions/vendor/markcollister/bolt-export/assets';
 
         $this->addSnippet(
           Location::END_OF_HEAD,
